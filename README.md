@@ -1,4 +1,4 @@
-# Go-Vapi Project
+# Go-Semaphore-test Project
 
 A Go project template with goroutine support demonstrating concurrent programming patterns in Go.
 
